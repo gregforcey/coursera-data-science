@@ -7,3 +7,4 @@ Practice repo for the coursera data science course
 * Getting and cleaning data
 * Exploratory Analysis
 
+Git is easy. Git is fun. Thanks Linus!
